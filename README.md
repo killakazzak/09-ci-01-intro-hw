@@ -19,6 +19,10 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 
+Workflow создан 
+
+![image](https://github.com/user-attachments/assets/39065063-72d6-46a8-bbcf-58da01cfc78a)
+
 Остальные задачи должны проходить по упрощённому workflow:
 
 1. Open -> On develop.
@@ -27,10 +31,12 @@
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
 
+
 **Что нужно сделать**
 
 1. Создайте задачу с типом bug, попытайтесь провести его по всему workflow до Done.
-![image](https://github.com/user-attachments/assets/39065063-72d6-46a8-bbcf-58da01cfc78a)
+
+![image](https://github.com/user-attachments/assets/7ab5ba99-e793-41d2-aad7-1843e1aeec7d)
 
 2. Создайте задачу с типом epic, к ней привяжите несколько задач с типом task, проведите их по всему workflow до Done. 
 3. При проведении обеих задач по статусам используйте kanban. 
