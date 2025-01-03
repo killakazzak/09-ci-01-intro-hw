@@ -49,6 +49,8 @@ Workflow создан
 4. Верните задачи в статус Open.
 5. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
 
+![image](https://github.com/user-attachments/assets/889db186-58e1-4076-8db4-c4190fe9aeb4)
+
 ![image](https://github.com/user-attachments/assets/9995cc7b-56d3-4544-9777-e4e2be8eea08)
 
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
