@@ -31,6 +31,7 @@ Workflow создан
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
 
+![image](https://github.com/user-attachments/assets/6b5023cf-3987-42e7-aba0-3d2b64862386)
 
 **Что нужно сделать**
 
@@ -39,6 +40,9 @@ Workflow создан
 ![image](https://github.com/user-attachments/assets/7ab5ba99-e793-41d2-aad7-1843e1aeec7d)
 
 2. Создайте задачу с типом epic, к ней привяжите несколько задач с типом task, проведите их по всему workflow до Done. 
+
+
+
 3. При проведении обеих задач по статусам используйте kanban. 
 4. Верните задачи в статус Open.
 5. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
