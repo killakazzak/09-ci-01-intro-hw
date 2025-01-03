@@ -46,7 +46,13 @@ Workflow создан
 ![image](https://github.com/user-attachments/assets/6937bb81-43b9-4567-939d-404c67171c73)
 
 3. При проведении обеих задач по статусам используйте kanban. 
+
+![image](https://github.com/user-attachments/assets/a032502d-f6f2-4d41-a39f-616ae3061a45)
+
 4. Верните задачи в статус Open.
+
+![image](https://github.com/user-attachments/assets/21c1cd73-f80b-4864-acf8-39a1538a5fa5)
+
 5. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
 
 ![image](https://github.com/user-attachments/assets/889db186-58e1-4076-8db4-c4190fe9aeb4)
